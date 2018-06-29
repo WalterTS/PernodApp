@@ -1,0 +1,8 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/sprite_sheet.tpsheet
+textureFileNames:
+- Assets/sprite_sheet.png
+normalmapFileNames:
+- 

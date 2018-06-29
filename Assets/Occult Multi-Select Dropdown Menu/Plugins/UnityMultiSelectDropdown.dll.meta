@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6d3421dff09376f48995ff51630c8cb6
+PluginImporter:
+  serializedVersion: 1
+  iconMap: 
+    Occult.UI.MultiSelectDropdown: {fileID: 2800000, guid: cc495c260b9a5f248bafb5079c900f6d
+, type: 3}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

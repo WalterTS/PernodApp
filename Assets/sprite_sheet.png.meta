@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 9cbb1f50dae6773478a31e40cb1e6408
+timeCreated: 1521761078
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: POSPAGO
+    21300002: PREPAGO
+    21300004: b_tucostomensual
+    21300006: b_tuequipo
+    21300008: b_tuplan
+    21300010: b_tuspromociones
+    21300012: brnIrEsquemas
+    21300014: btnShare
+    21300016: cel1
+    21300018: cel2
+    21300020: continueIcon
+    21300022: general_button_back
+    21300024: general_icon_home
+    21300026: general_logo_tuplan
+    21300028: iconCamara
+    21300030: iconDesktop
+    21300032: iconIphone
+    21300034: iconProcesador
+    21300036: iconRAM
+    21300038: icon_costomensual
+    21300040: icon_tuequipo
+    21300042: icon_tuplan
+    21300044: icon_tuspromociones
+    21300046: logoQualcom
+    21300048: menu
+    21300050: plans_social_facebook
+    21300052: plans_social_facemessenger
+    21300054: plans_social_twitter
+    21300056: plans_social_whatsapp
+    21300058: porMarca
+    21300060: qualcom
+    21300062: separator
+    21300064: slider_handler_2
+    21300066: slider_handlerl
+    21300068: tel_home
+    21300070: telcel4gte
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POSPAGO
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1041
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PREPAGO
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 866
+        width: 159
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.5020243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b_tucostomensual
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1492
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b_tuequipo
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1431
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b_tuplan
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 942
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: b_tuspromociones
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 881
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: brnIrEsquemas
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1981
+        width: 571
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btnShare
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1257
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cel1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1299
+        width: 209
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cel2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1314
+        width: 207
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: continueIcon
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1894
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: general_button_back
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1165
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: general_icon_home
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1271
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: general_logo_tuplan
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1960
+        width: 477
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: iconCamara
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 827
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: iconDesktop
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1819
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: iconIphone
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1969
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: iconProcesador
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 953
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: iconRAM
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1735
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_costomensual
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 679
+        width: 109
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49541286, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_tuequipo
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 846
+        width: 120
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_tuplan
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1123
+        width: 168
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5082873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_tuspromociones
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1297
+        width: 178
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46629214, y: 0.50555557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: logoQualcom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 810
+        width: 524
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 894
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plans_social_facebook
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1303
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plans_social_facemessenger
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 791
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plans_social_twitter
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1241
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4921875, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plans_social_whatsapp
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1037
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: porMarca
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1799
+        width: 469
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qualcom
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1377
+        width: 220
+        height: 54
+      alignment: 9
+      pivot: {x: 0.49545455, y: 0.5092593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: separator
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2042
+        width: 1069
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: slider_handler_2
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1689
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: slider_handlerl
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 728
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tel_home
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1487
+        width: 322
+        height: 559
+      alignment: 9
+      pivot: {x: 0.54037267, y: 0.51699466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: telcel4gte
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1441
+        width: 247
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
